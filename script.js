@@ -1,4 +1,4 @@
-
+//code to fetch global covid-19 count using API
 var xhr = new XMLHttpRequest();
 xhr.withCredentials = true;
 
